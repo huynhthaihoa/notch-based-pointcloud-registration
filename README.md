@@ -1,8 +1,5 @@
 # Notch-Based Point Cloud Registration
 
-- **Last update**: February 09, 2026
-- **Author**: Hoa Huynh
-
 ## Overview
 
 This is a C++ implementation of a point cloud registration solution that aligns multiple 3D point clouds by detecting and matching notch regions as stable keypoint correspondences. This approach is particularly effective for registering real sensor data to a master reference model, especially in industrial applications where distinctive geometric features (notches) are present.
