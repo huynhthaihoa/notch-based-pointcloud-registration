@@ -242,10 +242,6 @@ After successful execution, the following files are generated in the `OUTPUT/` d
 
 ---
 
-## License
-
-[Add your license information here - e.g., MIT, GPL, etc.]
-
 ## Citation
 
 If you use this work in research, please cite:
